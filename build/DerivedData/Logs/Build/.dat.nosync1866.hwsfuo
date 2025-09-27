@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>14DBAFB6-C7A5-488D-BD0E-273766461861</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14DBAFB6-C7A5-488D-BD0E-273766461861.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FastReboot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FastReboot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FastReboot with scheme FastReboot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>750373234.82367206</real>
+			<key>timeStoppedRecording</key>
+			<real>750373235.07272696</real>
+			<key>title</key>
+			<string>Building project FastReboot with scheme FastReboot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>14DBAFB6-C7A5-488D-BD0E-273766461861</string>
+		</dict>
+		<key>871977C7-7A7E-4B27-B27F-4E4BF72F66A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>871977C7-7A7E-4B27-B27F-4E4BF72F66A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FastReboot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FastReboot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FastReboot with scheme FastReboot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>750373633.58576703</real>
+			<key>timeStoppedRecording</key>
+			<real>750373633.83582902</real>
+			<key>title</key>
+			<string>Building project FastReboot with scheme FastReboot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>871977C7-7A7E-4B27-B27F-4E4BF72F66A7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

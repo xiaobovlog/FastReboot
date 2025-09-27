@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cbcaa19273d0e66c3e0fa6fa7045b5dc07f5ebd65d105644cf767e4a59104397"
+build_start_time: [1728673507, 452536106]
+build_end_time: [1728673507, 503107070]
+inputs:
+  "/Users/macair/Desktop/FastReboot/FastReboot/FastReboot/ContentView.swift": !private [1728673232, 283810138]
+  "/Users/macair/Desktop/FastReboot/FastReboot/FastReboot/FastRebootApp.swift": !private [1728670128, 728093624]

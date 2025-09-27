@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cbcaa19273d0e66c3e0fa6fa7045b5dc07f5ebd65d105644cf767e4a59104397"
+build_start_time: [1728687521, 121938943]
+build_end_time: [1728687523, 837892055]
+inputs:
+  "/Users/macair/Desktop/FastReboot/FastReboot/FastReboot/ContentView.swift": [1728687515, 320356369]
+  "/Users/macair/Desktop/FastReboot/FastReboot/FastReboot/FastRebootApp.swift": [1728687002, 596232414]
+  "/Users/macair/Desktop/FastReboot/FastReboot/FastReboot/RootHelper.swift": [1728682468, 902185201]
